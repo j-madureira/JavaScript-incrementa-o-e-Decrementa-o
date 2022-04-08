@@ -1,2 +1,3 @@
 # JavaScript-incrementa-o-e-Decrementa-o
-Olá este é meu primeiro Script fazendo incrementações e decrementações :)
+Olá este é meu primeiro Script fazendo incrementações e decrementações de diversas formas :)
+
